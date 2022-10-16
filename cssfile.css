@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Silkscreen&display=swap');
+.message p {
+    font-size: 80px;
+    color: lightseagreen;
+    margin-top: 80px;
+    text-shadow: 5px 0px darkcyan;
+    ;
+    font-family: 'Silkscreen', cursive;
+}
+/* .images{
+    display: inline-block;
+} */
+.Player{
+    text-align: center;
+    display: inline-block;
+    font-size: 40px;
+    font-family: 'Silkscreen',cursive;
+    color: lightseagreen;
+    margin: 10px;
+}
+body{
+    background-color:rgb(60, 61, 65);
+}
+.Player img{
+    width: 200px;
+    height: 200px;
+    border: 10px;
+    border-color: aquamarine;
+}
+
+/* #d1{
+    align-items: center;
+    height: fit-content;
+    width: fit-content;
+}
+#d2{
+    align-items: center;
+    height: fit-content;
+    width: fit-content;
+} */
